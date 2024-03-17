@@ -1,2 +1,3 @@
-This changes is created in feature_8 branch from git flow init
+This changes is created in feature_9 branch from git flow init
 // should be feature_9
+// update on bugfix_feature_9; changed the feature_8 to feature_9
