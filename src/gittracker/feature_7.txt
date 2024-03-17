@@ -1,1 +1,1 @@
-This changes is created in feature_6 branch from git flow init
+This changes is created in feature_7 branch from git flow init
