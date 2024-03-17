@@ -1,0 +1,2 @@
+This changes is created in feature_6 branch from git flow init
+// This branch should not be deleted
